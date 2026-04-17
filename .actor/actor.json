@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Patreon Downloader gives creators and teams a dependable way to save Patreon content instantly to your device. Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Patreon with consistent quality and predictable results.\n\nIt supports Patreon creator content and exclusive posts, Subscriber-only and tier-based content, and Batch creator libraries/post history downloads, so you can move quickly from download to delivery without tedious rework. Use it to archive Patreon assets, prep client deliverables, or keep your library accessible when connectivity is limited.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "patreon-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Patreon Downloader",
+  "version": "0.0"
+}
