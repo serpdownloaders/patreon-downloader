@@ -1,4 +1,4 @@
-# Patreon Downloader (Browser Extension)
+# Patreon Downloader
 
 > Download exclusive content from Patreon creators you subscribe to — videos, podcasts, images, posts, and digital files — straight to your local machine. Use this page for current scope details and waitlist updates.
 
