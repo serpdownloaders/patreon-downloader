@@ -1,6 +1,6 @@
-# Patreon Downloader — Coming Soon (Browser Extension)
+# Patreon Downloader (Browser Extension)
 
-> Download exclusive content from Patreon creators you subscribe to — videos, podcasts, images, posts, and digital files — straight to your local machine. **This extension is currently in development and has not been released yet.**
+> Download exclusive content from Patreon creators you subscribe to — videos, podcasts, images, posts, and digital files — straight to your local machine. Use this page for current scope details and waitlist updates.
 
 Patreon Downloader is an upcoming browser extension that will let paying subscribers save the content they already have access to through their Patreon memberships. Instead of relying on the Patreon web interface for every viewing session, users will be able to export creator content directly from the browser for offline access, personal archiving, and convenient local playback.
 
@@ -12,13 +12,13 @@ Patreon Downloader is an upcoming browser extension that will let paying subscri
 
 ## Status
 
-**This extension is not yet available for download.** Development is in progress and a release date has not been announced. Sign up below to get notified when it launches.
+This page tracks the current scope and waitlist for the browser extension. Sign up below to get release updates.
 
-:bell: **Get notified when this launches:** [Join the waitlist](https://serp.ly/patreon-downloader)
+:bell: **Get release updates:** [Join the waitlist](https://serp.ly/patreon-downloader)
 
 ## Links
 
-- :hourglass_flowing_sand: Waitlist: [Coming Soon — Sign Up](https://serp.ly/patreon-downloader)
+- :hourglass_flowing_sand: Waitlist: [Join the waitlist](https://serp.ly/patreon-downloader)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :bulb: Request features: [GitHub Issues](https://github.com/serpapps/patreon-downloader/issues)
 
